@@ -6,5 +6,7 @@ public class TestCase100 {
 
     // Added two items to the cart
 
+    // Verify the total price of items
+
 
 }
